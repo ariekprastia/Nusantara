@@ -1,0 +1,6 @@
+{
+  "name": "Nusantara CBT - Simulasi Ujian & Latihan Kurikulum Indonesia",
+  "description": "Portal simulasi ujian online (CBT) dan latihan mandiri seluruh mata pelajaran SD, SMP, dan SMA sesuai Kurikulum Merdeka & K-13 dengan ilustrasi gambar, penguncian PIN Admin, Dashboard Administrator, serta sinkronisasi Google Sheets dan Google Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
